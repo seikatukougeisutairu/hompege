@@ -1,0 +1,89 @@
+<html>
+
+<body>
+
+<div style="text-align: center">
+
+<b>生活工芸スタイル</b>
+
+<br>
+
+<i>５年２組</i>
+
+<hr>
+
+<p>
+
+<font size="1">活動の様子</font>
+
+</p>
+
+<hr>
+
+<img src="https://image.jimcdn.com/app/cms/image/transf/none/path/sa130041e8469d00a/image/i1881ba034ca74e55/version/1391259034/image.jpg" width="70%">
+
+<br>
+
+<input type="button" value="いいね"onclick="alert('いいねありがとうございます!')">
+
+<hr>
+
+<input type="button" value="工芸"onclick="alert('工芸は木で作品を造る活動です')">
+
+<input type="button" value="陶芸"onclick="alert('陶芸は土で作品を造る活動です')">
+
+<br>
+
+<a href="https://element.juen.ac.jp/activity/5-2/">５の２上越教育大学附属小学校ホームページ</a>
+
+<br>
+
+<table border="3" width="100%" height="10" cellpadding="1">
+
+    <tr>
+
+      <th colspan="2"><font size="10">道具の種類</font></th>
+
+    </tr>
+
+    <tr>
+
+      <td>カービングナイフ</td>
+
+      <td>丸スクイ刀</td>
+
+    </tr>
+
+  </table>
+
+  <hr>
+
+  生活工芸スタイルでは、生活に使う物を作っています｡今は
+
+木工で箸、スプーン、フォーク、バターナイフなど
+
+陶芸でコップ、お皿などです。
+
+生活工芸スタイルで使っている物を紹介します。
+
+まず、蜜蝋です。蜜蝋は仕上げるために使います。
+
+一番最初に仕上げで使いました。色は少し薄い黄色です。3日でつかえます。
+
+次はオイルフィニッシュです。オイルフィニッシュとは↓
+
+<br>
+
+<img src="https://stat.ameba.jp/user_images/20210415/20/iwana39over/65/92/j/o1080081014926912073.jpg" width="70%">
+
+<br>
+
+木目を残したまま仕上げることです。
+
+家にある木製の家具にはカラー塗料でコートされたものだけでなく、木材の木目がそのままで表面に薄くコートをされているものがあります。これらはオイルフィニッシュと呼ばれる、ごく自然に仕上げる方法です。オイルフィニッシュは木材に油を染みこませる方法で、カラー塗料のように木目が消えてしまわないため木材の良さをそのまま味わえます。
+
+</div>
+
+</body>
+
+</html>
